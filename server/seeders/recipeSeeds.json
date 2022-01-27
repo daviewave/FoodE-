@@ -1,0 +1,37 @@
+[
+  {
+    "recipeName": "Shrimp potato",
+    "recipeImageUrl": "https://www.myrecipes.com/recipe/bouillabaisse-fondue",
+    "url": "https://dinnerthendessert.com/pesto-shrimp/"
+  },
+  {
+    "recipeName": "Baked Scallops",
+    "recipeImageUrl": "https://www.bettycrocker.com/recipes/seafood-scalloped-potatoes/f32d6c26-c1dc-42de-943b-8ea524707c9f",
+    "url": "https://www.bettycrocker.com/recipes/seafood-scalloped-potatoes/f32d6c26-c1dc-42de-943b-8ea524707c9f"
+  },
+  {
+    "recipeName": "Shoe Recipe",
+    "recipeImageUrl": "https://www.stevemadden.com/products/cypress-black",
+    "url": "https://www.stevemadden.com/products/cypress-black"
+  },
+  {
+    "recipeName": "Clay Recipe",
+    "recipeImageUrl": "https://clayroom.com/",
+    "url": "https://clayroom.com/"
+  },
+  {
+    "recipeName": "Hamry Recipe",
+    "recipeImageUrl": "https://m.homary.com/",
+    "url": "https://m.homary.com/"
+  },
+  {
+    "recipeName": "chocolate chip cookies",
+    "recipeImageUrl": "https://minimalistbaker.com/5-minute-vegan-golden-milk/",
+    "url": "https://minimalistbaker.com/5-minute-vegan-golden-milk/"
+  },
+  {
+    "recipeName": "Apple Tart",
+    "recipeImageUrl": "https://smittenkitchen.com/2007/11/simplest-apple-tart/",
+    "url": "https://smittenkitchen.com/2007/11/simplest-apple-tart/"
+  }
+]
